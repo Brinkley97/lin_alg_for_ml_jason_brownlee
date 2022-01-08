@@ -53,7 +53,7 @@
 
 ## 6.5 Limitations of Broadcasting
 
-# CH 7 nMaterial
+# CH 7 Material
 
 ## 7.2 What is a Vector
 
